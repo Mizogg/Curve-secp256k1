@@ -16,7 +16,7 @@ So we know half way is 255 Bit so 50% of wallets in 255-256 Bits and the other 5
 
 What if we could divide by bits the range all the way to 1 bit? All keys are the modular inverse of the first key start point.
 
-Thanks to Quite the Contrary for teaching how to do this https://youtu.be/Vlqy1zB-QkE  ecdsa secp256k1 algorithm explained.
+Thanks to Quite the Contrary for teaching me how to do this https://youtu.be/Vlqy1zB-QkE  ecdsa secp256k1 algorithm explained.
 
 Try some different start points to understand how the curve consists of all points whose coordinates (x, y).
 
